@@ -1,0 +1,8 @@
+Model Information:
+* title:	Yoshi
+* source:	https://sketchfab.com/3d-models/yoshi-03d095923b934b3aa4423f72062327d6
+* author:	Venustoise! (https://sketchfab.com/Kermithog9005)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works
